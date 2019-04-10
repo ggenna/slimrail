@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!DOCTYPE PRJ SYSTEM "interfacciaTT.dtd">
+<PRJ>
+  <Project_ID>
+    <Signature>UE Proj: v.1</Signature>
+  </Project_ID>
+  <Files>
+    <File>maininterfaccia.c</File>
+    <File>miowrap.c</File>
+    <File>interfacciaeth.c</File>
+    <File>miowrap.h</File>
+    <File>errlib.c</File>
+    <File>errlib.h</File>
+    <File>sockwrap.h</File>
+    <File>sockwrap.c</File>
+    <File>interfacciaeth.h</File>
+  </Files>
+  <Project_Information>
+    <Filter></Filter>
+    <Include_Sub_Dir>1</Include_Sub_Dir>
+    <Relative_to_Project_File>1</Relative_to_Project_File>
+    <Word_File></Word_File>
+    <Use_Relative_Dir>1</Use_Relative_Dir>
+    <Project_Directory>/home/gioge/SLICARGO/ETHTT</Project_Directory>
+  </Project_Information>
+</PRJ>
